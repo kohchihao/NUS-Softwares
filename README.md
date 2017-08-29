@@ -12,4 +12,6 @@
 
 
 #### 1. [NUS Soc Mac Printer Adder](https://medium.com/@kohchihao/dear-nus-soc-why-your-printers-so-hard-to-add-9794a5e70979)
+
 - You can easily add NUS SoC printer to your macbook with one click 
+- Created by [Koh Chi Hao](https://t.me/kohchihao)
